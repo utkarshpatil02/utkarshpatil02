@@ -15,22 +15,13 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Utkarsh:
-    name       = "Utkarsh Patil"
-    username   = "utkarshpatil02"
-    role       = ["Full Stack Developer", "ML/AI Engineer"]
-    focus      = ["Building scalable web apps", "LLMs & AI-powered products"]
-    learning   = ["System Design", "MLOps", "Transformers & Fine-tuning"]
-    open_to    = "Internships • Collaborations • Open Source"
-    fun_fact   = "I build full-stack apps by day and train models by night 🌙"
-```
-
+- 👋 Hi, I'm **Utkarsh Patil** — a Full Stack Developer & ML/AI Engineer
 - 🔭 Currently building **full-stack + AI-integrated projects**
 - 🤖 Exploring **LLMs, RAG pipelines & Transformer architectures**
 - 🌱 Learning **System Design, Cloud Deployment & MLOps**
 - 🤝 Open to **internship opportunities & open source contributions**
-- ⚡ Believer in: *ship fast, learn faster*
+- 💬 Ask me about **React, Node.js, PyTorch & building AI-powered apps**
+- ⚡ Fun fact: *I build full-stack apps by day and train models by night 🌙*
 
 ---
 
